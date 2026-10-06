@@ -1,0 +1,7 @@
+*.pem
+.env
+.env.*
+!.env.example
+*.d115p
+build/
+.DS_Store
